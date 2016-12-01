@@ -22,7 +22,7 @@ You only need to support the latest version of Chrome for this example, use expe
 * Require a framework for implementation. Don't build an Angular or React plugin. Try to keep it as stand-alone as possible.
 
 ## Delivery
-When you are done zip-it and mail it :)
+When you are done, zip and mail :)
 
 # Getting started
 Clone this repo!
