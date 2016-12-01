@@ -22,7 +22,7 @@ You only need to support the latest version of Chrome for this example, use expe
 * Require a framework for implementation. Don't build an Angular or React plugin. Try to keep it as stand-alone as possible.
 
 ## Delivery
-When you are done send in your code as a pull-request.
+When you are done zip-it and mail it :)
 
 # Getting started
 Clone this repo!
