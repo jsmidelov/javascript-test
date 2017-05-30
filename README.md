@@ -27,11 +27,12 @@ When you are done, zip and mail :)
 # Getting started
 Clone this repo!
 
-## Install Json Server (global)
+## Install global dependencies
 
 https://github.com/typicode/json-server
+https://github.com/webpack/webpack-dev-server
 
-    npm install -g json-server
+    npm install -g json-server webpack-dev-server
 
 ## Install npm dependencies
 
