@@ -31,9 +31,9 @@ Clone this repo!
 
 https://github.com/typicode/json-server
 
-https://github.com/webpack/webpack-dev-server
+https://github.com/webpack
 
-    npm install -g json-server webpack-dev-server
+    npm install -g json-server webpack webpack-dev-server
 
 ## Install npm dependencies
 
