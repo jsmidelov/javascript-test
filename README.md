@@ -30,6 +30,7 @@ Clone this repo!
 ## Install global dependencies
 
 https://github.com/typicode/json-server
+
 https://github.com/webpack/webpack-dev-server
 
     npm install -g json-server webpack-dev-server
