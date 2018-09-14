@@ -8,14 +8,18 @@ module.exports = {
         filename: 'bundle.js'
     },
     module: {
-        loaders: [{
+        rules: [
+          {
             test: /\.js$/,
             exclude: /(node_modules|bower_components)/,
-            loader: 'babel-loader',
-            query: {
-                presets: ['es2015']
+            use: {
+              loader: 'babel-loader',
+              options: {
+                presets: ['@babel/preset-env']
+              }
             }
-        }]
-    },
+          }
+        ]
+      },
     stats: { colors: true }
 };
